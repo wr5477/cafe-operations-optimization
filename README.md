@@ -1,6 +1,6 @@
 # Optimization of Café Operations ☕️
 
-[cite_start]An operations research and analytics project aimed at optimizing seating arrangements and operational policies for 'Cafe Ann' using queueing theory, simulation, and linear programming[cite: 29, 715].
+An operations research and analytics project aimed at optimizing seating arrangements and operational policies for 'Cafe Ann' using queueing theory, simulation, and linear programming.
 
 ## 📌 Overview
 This project tackles real-world congestion and profitability issues in a 24-hour university café. By analyzing actual customer transaction and arrival data, the project is divided into two main tasks:
